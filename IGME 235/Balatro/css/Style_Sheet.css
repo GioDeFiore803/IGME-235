@@ -1,25 +1,22 @@
 h1 
 {
-    font-size: 150pt;
-    color:blanchedalmond;
+    font-size: 6vw;
+    color:#f8f4ee;
     text-align: center;
-    margin-top: 0px
+    
    
 }
 
-header
+.logo
 {
-    background-color:darkgreen;
-    height: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 75%;
 }
 
 body
 {
-    background-color:forestgreen;
-}
-
-.Description
-{
-    text-align: center;
-    font-size: 50pt;
+  background-color:#7c7a6e;
 }
