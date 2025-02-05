@@ -1,0 +1,48 @@
+
+h1 {
+    color: red;
+    font-family: vt323, sans-serif;
+    font-size: 200px;
+    border-bottom: 1px solid blue;
+    text-align: center;
+}
+
+h3,
+h2 {
+    color: blue;
+    font-family: vt323, sans-serif;
+    font-size: 40px; 
+    border-bottom: 1px solid red;
+}
+p{
+    font-size: 20px;
+}
+
+li{
+    font-size: 20px;
+}
+
+p#quote {
+    margin-left: 100px;
+    background-color: rgb(140, 199, 255);
+    padding: 1rem;
+}
+
+img.side {
+    float: right;
+    margin: 12px;
+    width: 300px;
+}
+
+
+footer{
+    background-color:  rgb(140, 199, 255);
+}
+a{
+    font-size:20px;
+    color:red;
+}
+
+body {
+    background-color: lightblue;
+}
