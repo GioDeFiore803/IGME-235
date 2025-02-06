@@ -1,0 +1,78 @@
+p {
+    float:left;
+    position: absolute;
+    top:43%;
+    left:30%;
+    font-family: Quantico, sans-serif;
+    font-size: 20px;
+    color: white;
+    border: 5px solid #EFE9F4;
+    width: 500px;
+    padding:10px;
+    margin-top: 5px;
+
+}
+
+h2 {
+    position: absolute;
+    left:30%;
+    color: white;
+    font-family: Quantico, sans-serif;
+    font-size: 50px;
+    border: 5px solid #EFE9F4;
+    width: 240px;
+    padding: 5px;
+    margin-top: 0px;
+}
+
+h1 {
+    font-family: Emilys+Candy, sans-serif;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px gray, 0 0 20px rgb(46, 46, 46);
+    font-size: 95px;
+}
+
+#gio {
+    float:left;
+    border: 5px solid #EFE9F4;
+    padding: 1rem;
+}
+
+header {
+    background-color: #ADB5BD;
+    margin: 0 auto;
+    width: 95vw;
+    padding: 1rem;
+}
+
+main {
+    margin: 0 auto;
+    width: 100vw;
+    padding: 1rem
+}
+
+body {
+    background-color: #212529;
+}
+#project1{
+    position: absolute;
+    top: 40%;
+    right:20%;
+
+}
+#project2{
+    position: absolute;
+    top:60%;
+    right:20%;
+
+}
+#project3{
+    position: absolute;
+    top:80%;
+    right:20%;
+}
+.links{
+    font-size: 50px;
+    border: 5px solid white
+}
