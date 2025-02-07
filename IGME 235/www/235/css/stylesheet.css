@@ -1,0 +1,130 @@
+header {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    background-color: #669BBC;
+}
+
+body {
+    background-color: #003049;
+}
+
+h1 {
+    font-family: Quantico, sans-serif;
+    color: #F8F9FA;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(100, 100, 100), 0 0 5px rgb(36, 36, 36);
+    font-size: 100px;
+    text-align: center;
+
+}
+
+img#gio {
+    margin-top: 10px;
+    border: 7px solid #FDF0D5;
+    padding: 10px;
+    width: 600px
+}
+
+.links {
+    font-family: Quantico, sans-serif;
+    font-style: italic;
+    color: #F8F9FA;
+    border: 7px solid #FDF0D5;
+    margin-top: 10px;
+    font-size: 50px;
+    width: 400px;
+    text-align: center;
+}
+
+#project1 {
+    position: fixed;
+    right: 28.5%;
+    top: 35%;
+}
+
+#project2 {
+    position: fixed;
+    right: 28.5%;
+    top: 55%;
+}
+
+#project3 {
+    position: fixed;
+    right: 28.5%;
+    top: 75%;
+}
+
+#git{
+    position: fixed;
+    top:50%;
+    right:5%;
+}
+
+h2.level2 {
+    position: fixed;
+    font-family: Quantico, sans-serif;
+    font-size: 60px;
+    color: #F8F9FA;
+    border: 7px solid #FDF0D5;
+    text-align: center;
+}
+
+.git{
+    position: fixed;
+    font-family: Quantico, sans-serif;
+    font-size: 60px;
+    color: #F8F9FA;
+    border: 7px solid #FDF0D5;
+    text-align: center;
+    margin-top: 10px;
+    top: 26%;
+    right:10%
+    
+}
+
+#about {
+    position: fixed;
+    width: 300px;
+    margin-top: 10px;
+    right: 57%;
+    top: 26%;
+}
+
+#projects {
+    position: fixed;
+    width: 325px;
+    margin-top: 10px;
+    right: 30%;
+    top: 26%;
+}
+
+p {
+    position: fixed;
+    font-family: Quantico, sans-serif;
+    font-size: 25px;
+    color: #F8F9FA;
+    border: 7px solid #FDF0D5;
+    width: 500px;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    top: 35%;
+    right: 52.8%;
+}
+
+a:link{
+    color: #d90429;
+}
+a:visited{
+    color: #669bbc;
+}
+
+a:hover{
+    color: #fdf0d5;
+}
+a:active{
+    color: #03045e;
+}
+a:focus{
+    background-color: #ef233c;
+}
