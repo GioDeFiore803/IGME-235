@@ -2,15 +2,19 @@
     margin: 15px 45px;
 }
 
+
+
 #intel{
-    position: absolute;
+    position:absolute;
+    left:53px;
     width: 150px;
     height: 150px;
+    
 }
 
 #landscape{
     width: 100%;
-    height: 40vh;
+    height: 60vh;
     margin-top: 80px;
 }
 .heading{
@@ -20,42 +24,60 @@
 }
 
 .title{
-    position: relative;
-    top:-360px;
-    left: 50px;
-    background: rgba(220,83,105,1);
+    position:absolute;
+    background-color: palevioletred;
+    font-family: "Red+Hat+Text", sans-serif;
+    font-weight:100;
+    font-size:5vw;
+    text-wrap: left;
     color:white;
-    font-family: "Red Hat Text", serif;
-    font-size: 75px;
-    font-weight: 200;
-    line-height: 80px;
-    text-align: left;
-    margin: 0;
-    padding-top: 60px;
-    padding-left: 25px;
-    width: 400px;
-    height: 375px;
+    padding: 40px 10px 110px 20px;
+    top:150px;
+    left:100px;
+    width: 30vw;
+    height:40vh;
 }
 
 .offers{
-    position: relative;
+    position:absolute;
     display: flex;
-    flex-direction: row;
-    top: -125px;
     background-color: white;
-    font-family: "Red Hat Text", serif;
-    font-size:20.5px;
-    text-align: left;
-    width: 375px;
-    height: 150px;
-    padding-top: 15px;
-    padding-right: 10px;
-}
+    font-family: "Red+Hat+Text", sans-serif;
+    width:40vw;
+    height:27vh;
+    top: 460px;
+    right:53px;
 
+}
+.box-flex{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-right:50px
+}
 .box{
-    background-color: aqua;
-    width:100%;
-    height:60%;
-    margin-right: 20px;
+    background-color:palevioletred;
+    width: 6vw;
+    height: 12vh;
+}
+.box2{
+    background-color:rgb(249, 197, 54);
+    width: 2vw;
+    height: 3.8vh;
+    margin-left:93px;
 }
 
+#offer-text{
+    text-align: left;
+    font-size:1.5vw;
+}
+
+footer{
+    margin-top:1000px;
+    padding:30px;
+    color:darkcyan;
+    text-align: right;
+    font-size: 30px;
+    font-family: "Red+Hat+Text", sans-serif;
+    font-weight:500;
+}
